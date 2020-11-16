@@ -32543,7 +32543,7 @@ s=p}while(true)switch(s){case 0:p=4
 k=t.X
 k=P.ar(["Content-Type","application/json"],k,k)
 s=7
-return P.a2(G.ai6("http://localhost:8081/Pacientes/Citas/Create",C.Y.kB(b,null),k),$async$F)
+return P.a2(G.ai6("https://bitdatasolution.com/Pacientes/Citas/Create",C.Y.kB(b,null),k),$async$F)
 case 7:m=d
 if(m.b===200){k=m
 k=H.b([1,B.f5(U.f3(k.e).c.a.h(0,"charset")).cs(0,k.x)],t.M)
@@ -32575,7 +32575,7 @@ a2V:function(a,b){var s=0,r=P.Y(t.z),q,p=2,o,n=[],m,l,k,j,i
 var $async$ds=P.T(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return P.a2(G.acI("http://localhost:8081/Pacientes/Citas/Delete/"+H.d(b)),$async$ds)
+return P.a2(G.acI("https://bitdatasolution.com/Pacientes/Citas/Delete/"+H.d(b)),$async$ds)
 case 7:m=d
 if(m.b===200){k=m
 k=H.b([1,B.f5(U.f3(k.e).c.a.h(0,"charset")).cs(0,k.x)],t.M)
@@ -32609,7 +32609,7 @@ s=p}while(true)switch(s){case 0:p=4
 k=t.X
 k=P.ar(["Content-Type","application/json"],k,k)
 s=7
-return P.a2(G.a9P("http://localhost:8081/Pacientes/Citas/Edit",C.Y.kB(b,null),k),$async$a8)
+return P.a2(G.a9P("https://bitdatasolution.com/Pacientes/Citas/Edit",C.Y.kB(b,null),k),$async$a8)
 case 7:m=d
 if(m.b===200){k=m
 k=H.b([1,B.f5(U.f3(k.e).c.a.h(0,"charset")).cs(0,k.x)],t.M)
@@ -32641,7 +32641,7 @@ aL:function(a){var s=0,r=P.Y(t.z),q,p=2,o,n=[],m,l,k,j
 var $async$aL=P.T(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return P.a2(G.A_("http://localhost:8081/Habitaciones"),$async$aL)
+return P.a2(G.A_("https://bitdatasolution.com/Habitaciones"),$async$aL)
 case 7:m=c
 if(m.b===200){l=m
 l=H.b([1,B.f5(U.f3(l.e).c.a.h(0,"charset")).cs(0,l.x)],t.M)
@@ -32674,7 +32674,7 @@ s=p}while(true)switch(s){case 0:p=4
 k=t.X
 k=P.ar(["Content-Type","application/json"],k,k)
 s=7
-return P.a2(G.a9P("http://localhost:8081/Habitaciones/Edit",C.Y.kB(b,null),k),$async$a8)
+return P.a2(G.a9P("https://bitdatasolution.com/Habitaciones/Edit",C.Y.kB(b,null),k),$async$a8)
 case 7:m=d
 if(m.b===200){k=m
 k=H.b([1,B.f5(U.f3(k.e).c.a.h(0,"charset")).cs(0,k.x)],t.M)
@@ -32706,7 +32706,7 @@ aL:function(a){var s=0,r=P.Y(t.z),q,p=2,o,n=[],m,l,k,j
 var $async$aL=P.T(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return P.a2(G.A_("http://localhost:8081/NivelesEdificio"),$async$aL)
+return P.a2(G.A_("https://bitdatasolution.com/NivelesEdificio"),$async$aL)
 case 7:m=c
 if(m.b===200){l=m
 l=H.b([1,B.f5(U.f3(l.e).c.a.h(0,"charset")).cs(0,l.x)],t.M)
@@ -32740,7 +32740,7 @@ s=p}while(true)switch(s){case 0:p=4
 k=t.X
 k=P.ar(["Content-Type","application/json"],k,k)
 s=7
-return P.a2(G.ai6("http://localhost:8081/Pacientes/Create",C.Y.kB(b,null),k),$async$F)
+return P.a2(G.ai6("https://bitdatasolution.com/Pacientes/Create",C.Y.kB(b,null),k),$async$F)
 case 7:m=d
 if(m.b===200){k=m
 k=H.b([1,B.f5(U.f3(k.e).c.a.h(0,"charset")).cs(0,k.x)],t.M)
@@ -32772,7 +32772,7 @@ a2X:function(a,b){var s=0,r=P.Y(t.z),q,p=2,o,n=[],m,l,k,j
 var $async$ds=P.T(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return P.a2(G.acI("http://localhost:8081/Pacientes/Delete/"+H.d(b)),$async$ds)
+return P.a2(G.acI("https://bitdatasolution.com/Pacientes/Delete/"+H.d(b)),$async$ds)
 case 7:m=d
 if(m.b===200){l=m
 l=H.b([1,B.f5(U.f3(l.e).c.a.h(0,"charset")).cs(0,l.x)],t.M)
@@ -32802,7 +32802,7 @@ aL:function(a){var s=0,r=P.Y(t.z),q,p=2,o,n=[],m,l,k,j
 var $async$aL=P.T(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return P.a2(G.A_("http://localhost:8081/Pacientes"),$async$aL)
+return P.a2(G.A_("https://bitdatasolution.com/Pacientes"),$async$aL)
 case 7:m=c
 if(m.b===200){l=m
 l=H.b([1,B.f5(U.f3(l.e).c.a.h(0,"charset")).cs(0,l.x)],t.M)
@@ -32835,7 +32835,7 @@ s=p}while(true)switch(s){case 0:p=4
 k=t.X
 k=P.ar(["Content-Type","application/json"],k,k)
 s=7
-return P.a2(G.a9P("http://localhost:8081/Pacientes/Update",C.Y.kB(b,null),k),$async$a8)
+return P.a2(G.a9P("https://bitdatasolution.com/Pacientes/Update",C.Y.kB(b,null),k),$async$a8)
 case 7:m=d
 if(m.b===200){k=m
 k=H.b([1,B.f5(U.f3(k.e).c.a.h(0,"charset")).cs(0,k.x)],t.M)
@@ -32869,7 +32869,7 @@ s=p}while(true)switch(s){case 0:p=4
 k=t.X
 k=P.ar(["Content-Type","application/json"],k,k)
 s=7
-return P.a2(G.a9P("http://localhost:8081/Pacientes/Internados/Update",C.Y.kB(a,null),k),$async$iH)
+return P.a2(G.a9P("https://bitdatasolution.com/Pacientes/Internados/Update",C.Y.kB(a,null),k),$async$iH)
 case 7:m=c
 if(m.b===200){k=m
 k=H.b([1,B.f5(U.f3(k.e).c.a.h(0,"charset")).cs(0,k.x)],t.M)
@@ -32901,7 +32901,7 @@ aL:function(a){var s=0,r=P.Y(t.z),q,p=2,o,n=[],m,l,k,j
 var $async$aL=P.T(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return P.a2(G.A_("http://localhost:8081/Personal"),$async$aL)
+return P.a2(G.A_("https://bitdatasolution.com/Personal"),$async$aL)
 case 7:m=c
 if(m.b===200){l=m
 l=H.b([1,B.f5(U.f3(l.e).c.a.h(0,"charset")).cs(0,l.x)],t.M)
@@ -32932,7 +32932,7 @@ aL:function(a){var s=0,r=P.Y(t.z),q,p=2,o,n=[],m,l,k,j
 var $async$aL=P.T(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return P.a2(G.A_("http://localhost:8081/TiposHabitacion"),$async$aL)
+return P.a2(G.A_("https://bitdatasolution.com/TiposHabitacion"),$async$aL)
 case 7:m=c
 if(m.b===200){l=m
 l=H.b([1,B.f5(U.f3(l.e).c.a.h(0,"charset")).cs(0,l.x)],t.M)
@@ -32963,7 +32963,7 @@ aL:function(a){var s=0,r=P.Y(t.z),q,p=2,o,n=[],m,l,k,j
 var $async$aL=P.T(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return P.a2(G.A_("http://localhost:8081/Ubicaciones"),$async$aL)
+return P.a2(G.A_("https://bitdatasolution.com/Ubicaciones"),$async$aL)
 case 7:m=c
 if(m.b===200){l=m
 l=H.b([1,B.f5(U.f3(l.e).c.a.h(0,"charset")).cs(0,l.x)],t.M)
